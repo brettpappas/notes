@@ -1,14 +1,4 @@
-# react-native
+# React Native
 
-#### To run your app on iOS:
-```
-cd /Users/122999/Documents/ReactNative/Sandbox
-react-native run-ios
-```
-
-#### To run your app on Android:
-Have an Android emulator running (quickest way to get started), or a device connected
-```
-cd /Users/122999/Documents/ReactNative/Sandbox
-react-native run-android
-```
+### [The Basics](https://github.com/brettpappas/react-native/wiki/The-Basics)
+### [3rd Party Modules](https://github.com/brettpappas/react-native/wiki/3rd-Party-Modules)
