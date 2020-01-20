@@ -1,0 +1,21 @@
+openapi: 3.0.0
+info:
+  title: Translate
+  version: '1.0'
+  contact:
+    name: Brett Pappas
+    email: brett.pappas@scripps.com
+  description: Localization endpoints.
+servers:
+  - url: 'https://api.scrippsnet.io'
+    description: Local
+  - description: Development
+    url: 'https://api.scrippsnet.dev'
+paths: {}
+components:
+  schemas: {}
+  securitySchemes:
+    Authorization:
+      name: 'Bearer {token}'
+      type: apiKey
+      in: header

@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: Employees
+  version: '1.0'
+servers:
+  - url: 'https://api.scrippsnet.io'
+    description: Local
+  - url: 'https://api.scrippsnet.dev'
+    description: Development
+paths: {}
+components:
+  schemas: {}
